@@ -16,3 +16,4 @@ console.log(accountID);
 Prefer not to use var
 because of issuein block scope
 */
+console.table([accountID,accountEmail,accountPassword,accountCity])
